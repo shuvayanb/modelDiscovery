@@ -1,1 +1,1 @@
-github repo for model discovery using agentic ai
+github repo for model discovery. More update to follow soon
